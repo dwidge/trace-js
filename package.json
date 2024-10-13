@@ -1,6 +1,6 @@
 {
   "name": "@dwidge/trace-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add context to exceptions thrown by JS functions.",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     }
   },
   "files": [
-    "dist/*/",
+    "dist",
     "src"
   ],
   "scripts": {
